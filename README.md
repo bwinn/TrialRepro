@@ -1,2 +1,3 @@
 # TrialRepro
 Trying to understand GitHub
+Making a change in the file so that I can understand how this works.
